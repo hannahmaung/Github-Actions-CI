@@ -8,7 +8,7 @@ class TestCase(unittest.TestCase):
         self.assertEqual(example.add(1, 2), 3)
 
     def test_sub(self):
-        self.assertEqual(example.subtract(10, 5), 5) 
+        self.assertEqual(example.subtract(10, 5), 5)
 
     def test_mult(self):
         self.assertEqual(example.multiply(1, 2), 2)
