@@ -1,6 +1,5 @@
-
-import unittest
 import example
+import unittest
 
 
 class TestCase(unittest.TestCase):
